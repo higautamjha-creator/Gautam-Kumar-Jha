@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="vault_docs" path="vault_docs/" />
+    <cache-path name="camera_scans" path="camera_scans/" />
+</paths>

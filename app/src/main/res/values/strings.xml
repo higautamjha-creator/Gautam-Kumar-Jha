@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DocuVault</string>
+    <string name="welcome_splash_title">Welcome to Personal Document App - Developed by Gautam Kumar Jha</string>
+    <string name="vault_tagline">Encrypted Cloud &amp; Offline Document Vault</string>
+    <string name="search_placeholder">Search documents by title, tag, ID, or notes…</string>
+    <string name="action_scan_document">Scan Document</string>
+    <string name="action_upload_file">Upload File</string>
+    <string name="action_upload_pdf">Import PDF</string>
+    <string name="action_upload_image">Import Image</string>
+    <string name="action_sign_in_google">Sign in with Google</string>
+    <string name="action_configure_cloud">Configure Cloud Sync</string>
+    <string name="action_sync_now">Sync Now</string>
+    <string name="nav_dashboard">Vault</string>
+    <string name="nav_scanner">Scanner</string>
+    <string name="nav_offline">Offline</string>
+    <string name="nav_cloud_account">Account</string>
+    <string name="empty_vault_title">Your Personal Vault is Empty</string>
+    <string name="empty_vault_subtitle">Scan physical papers with your camera or import PDFs and images. Everything is cached locally for offline access and synced to your Google Cloud account.</string>
+    <string name="offline_ready_badge">Offline Ready</string>
+    <string name="cloud_synced_badge">Cloud Synced</string>
+    <string name="pending_sync_badge">Local Only · Pending Cloud Sync</string>
+</resources>
